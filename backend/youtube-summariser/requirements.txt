@@ -2,7 +2,7 @@ fastapi
 uvicorn
 pydantic
 python-dotenv
-youtube-transcript-api
+youtube-transcript-api==0.6.3
 langchain
 langchain_groq
 google-api-python-client
